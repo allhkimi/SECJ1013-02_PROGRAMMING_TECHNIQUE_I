@@ -106,8 +106,5 @@
             </tr>
         </tbody>
     </table>
-    <h3>Additional Course Information</h3>
-    <p><strong>Course Coordinators:</strong> Alif Ridzuan Khairuddin, Goh Eg Su, Jamilah Mahmood, Izyan Izzati Kamsani, Lizawati Mi Yusuf</p>
-    <p><strong>Software Required:</strong> Visual Studio Code, Dev C++</p>
 </body>
 </html>
