@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
 </head>
 <body>
     <h1>SECJ1013: Programming Technique I</h1>
@@ -26,77 +25,77 @@
         <tbody>
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">1</td>
-                <td style="border: 1px solid black; padding: 8px;">06/10/24 - 10/10/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Programming Problem-Solving: Process, Pseudocode, Flowcharts</td>
+                <td style="border: 1px solid black; padding: 8px;">09/10/24 - 10/10/24</td>
+                <td style="border: 1px solid black; padding: 8px;">--</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">2</td>
-                <td style="border: 1px solid black; padding: 8px;">13/10/24 - 17/10/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Lab Exercise 1</td>
+                <td style="border: 1px solid black; padding: 8px;">16/10/24 - 17/10/24</td>
+                <td style="border: 1px solid black; padding: 8px;">Programming Problem-Solving: Process, Pseudocode, Flowcharts</td>
             </tr>
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">3</td>
-                <td style="border: 1px solid black; padding: 8px;">20/10/24 - 24/10/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Elementary Programming: Variables, Input/Output, Data Types</td>
+                <td style="border: 1px solid black; padding: 8px;">23/10/24 - 24/10/24</td>
+                <td style="border: 1px solid black; padding: 8px;">Elementary Programming: Variables, Input/Output, Data Types, Lab 1</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">4</td>
-                <td style="border: 1px solid black; padding: 8px;">27/10/24 - 31/10/24</td>
+                <td style="border: 1px solid black; padding: 8px;">30/10/24 - 31/10/24</td>
                 <td style="border: 1px solid black; padding: 8px;">Deepavali Break (31/10)</td>
             </tr>
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">5</td>
-                <td style="border: 1px solid black; padding: 8px;">03/11/24 - 07/11/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Control Structures: Selection and Loops</td>
+                <td style="border: 1px solid black; padding: 8px;">06/11/24 - 07/11/24</td>
+                <td style="border: 1px solid black; padding: 8px;">Control Structures: Selection and Loops, Lab 2</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">6</td>
-                <td style="border: 1px solid black; padding: 8px;">10/11/24 - 14/11/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Lab Exercise 2</td>
+                <td style="border: 1px solid black; padding: 8px;">13/11/24 - 14/11/24</td>
+                <td style="border: 1px solid black; padding: 8px;">Control Structures: Selection and Loops</td>
             </tr>
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">7</td>
-                <td style="border: 1px solid black; padding: 8px;">17/11/24 - 21/11/24</td>
+                <td style="border: 1px solid black; padding: 8px;">20/11/24 - 21/11/24</td>
                 <td style="border: 1px solid black; padding: 8px;">Functions: Predefined and User-Defined</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">8</td>
-                <td style="border: 1px solid black; padding: 8px;">24/11/24 - 28/11/24</td>
+                <td style="border: 1px solid black; padding: 8px;">27/11/24 - 28/11/24</td>
                 <td style="border: 1px solid black; padding: 8px;">Mid-Semester Break</td>
             </tr>
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">9</td>
-                <td style="border: 1px solid black; padding: 8px;">01/12/24 - 05/12/24</td>
+                <td style="border: 1px solid black; padding: 8px;">04/12/24 - 05/12/24</td>
                 <td style="border: 1px solid black; padding: 8px;">Test 1: Written</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">10</td>
                 <td style="border: 1px solid black; padding: 8px;">08/12/24 - 12/12/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Arrays: 1D and 2D</td>
+                <td style="border: 1px solid black; padding: 8px;">Arrays: 1D and 2D, Assignment 1, Lab 3, Test 2: Practical</td>
             </tr>
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">11</td>
-                <td style="border: 1px solid black; padding: 8px;">15/12/24 - 19/12/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Lab Exercise 3 & Test 2: Practical</td>
+                <td style="border: 1px solid black; padding: 8px;">18/12/24 - 19/12/24</td>
+                <td style="border: 1px solid black; padding: 8px;">Arrays: 1D and 2D</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">12</td>
-                <td style="border: 1px solid black; padding: 8px;">22/12/24 - 26/12/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Input/Output and File Operations</td>
+                <td style="border: 1px solid black; padding: 8px;">25/12/24 - 26/12/24</td>
+                <td style="border: 1px solid black; padding: 8px;">Input/Output and File Operations, Assignment 2</td>
             </tr>
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">13</td>
-                <td style="border: 1px solid black; padding: 8px;">29/12/24 - 02/01/25</td>
-                <td style="border: 1px solid black; padding: 8px;">Lab Exercise 4</td>
+                <td style="border: 1px solid black; padding: 8px;">01/01/25 - 02/01/25</td>
+                <td style="border: 1px solid black; padding: 8px;">Pointers,Lab Exercise 4</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">14</td>
-                <td style="border: 1px solid black; padding: 8px;">05/01/25 - 09/01/25</td>
+                <td style="border: 1px solid black; padding: 8px;">08/01/25 - 09/01/25</td>
                 <td style="border: 1px solid black; padding: 8px;">Pointers</td>
             </tr>
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">15</td>
-                <td style="border: 1px solid black; padding: 8px;">12/01/25 - 16/01/25</td>
+                <td style="border: 1px solid black; padding: 8px;">15/01/25 - 16/01/25</td>
                 <td style="border: 1px solid black; padding: 8px;">Structured Data</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
