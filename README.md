@@ -87,12 +87,12 @@
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">13</td>
                 <td style="border: 1px solid black; padding: 8px;">29/12/24 - 02/01/25</td>
-                <td style="border: 1px solid black; padding: 8px;">Pointers</td>
+                <td style="border: 1px solid black; padding: 8px;">Lab Exercise 4</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">14</td>
                 <td style="border: 1px solid black; padding: 8px;">05/01/25 - 09/01/25</td>
-                <td style="border: 1px solid black; padding: 8px;">Lab Exercise 4</td>
+                <td style="border: 1px solid black; padding: 8px;">Pointers</td>
             </tr>
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">15</td>
