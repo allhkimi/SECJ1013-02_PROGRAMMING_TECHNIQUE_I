@@ -77,7 +77,7 @@
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">11</td>
                 <td style="border: 1px solid black; padding: 8px;">15/12/24 - 19/12/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Lab Exercise 3</td>
+                <td style="border: 1px solid black; padding: 8px;">Lab Exercise 3 & Test 2: Practical</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">12</td>
