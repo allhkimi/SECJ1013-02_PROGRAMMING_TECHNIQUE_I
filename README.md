@@ -105,5 +105,19 @@
             </tr>
         </tbody>
     </table>
+    <section id="reflection" class="mt-5">
+    <h2 class="text-center mb-4">Reflection</h2>
+    <div class="container">
+        <p>
+            In the <strong>Programming Technique I</strong> subject, the basics and fundamentals of C++ programming were introduced. The course started with simple topics like variables, data types, and input-output operations.
+
+Basic programming concepts, such as control structures (if-else, switch, loops), were learned and practiced. These structures were used to solve problems and create programs with clear logic and flow.
+
+Functions were introduced to make code reusable and organized. Topics like arrays and pointers were also explained, and their roles in managing data were studied. Additionally, simple file handling techniques were practiced to understand how data is stored and retrieved.
+
+The subject focused on building problem-solving skills. Many exercises were completed to practice writing code and debugging errors. By the end of the course, a good understanding of C++ fundamentals was gained, providing a strong foundation for future programming courses.
+        </p>
+    </div>
+</section>
 </body>
 </html>
